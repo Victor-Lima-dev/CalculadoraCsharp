@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vitor\\Desktop\\projetos\\calculadoraC#\\calculator\\Calculator.csproj": {}
+    "C:\\Users\\Vitor\\Desktop\\projetos\\calculadoraC#\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vitor\\Desktop\\projetos\\calculadoraC#\\calculator\\Calculator.csproj": {
+    "C:\\Users\\Vitor\\Desktop\\projetos\\calculadoraC#\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vitor\\Desktop\\projetos\\calculadoraC#\\calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Vitor\\Desktop\\projetos\\calculadoraC#\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Vitor\\Desktop\\projetos\\calculadoraC#\\calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\Vitor\\Desktop\\projetos\\calculadoraC#\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vitor\\Desktop\\projetos\\calculadoraC#\\calculator\\obj\\",
+        "outputPath": "C:\\Users\\Vitor\\Desktop\\projetos\\calculadoraC#\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vitor\\AppData\\Roaming\\NuGet\\NuGet.Config"
